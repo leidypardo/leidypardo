@@ -1,6 +1,6 @@
 Hi 👋 
 
-Const Leidy Katherin Pardo Palomino = {  
+Const KatherinPalomino = {  
   Nationality: Colombia 🇨🇴,  
   code: [Javascript, HTML, CSS],  
   tools: [React, Redux, Node,FireBase, Jest],  
