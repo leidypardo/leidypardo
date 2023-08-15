@@ -3,7 +3,7 @@ Hi 👋
 Const KatherinPalomino = {  
   Nationality: Colombia 🇨🇴,  
   code: [Javascript, HTML, CSS],  
-  tools: [React, Redux, Node,FireBase, Jest],  
+  tools: [React, Redux, Node,FireBase, Jest, git hub],  
   Methodologies: ["SCRUM"],  
   ⚡ Fun fact: { I'm an astronomy fan🔭 },  
  📫 How to reach me:  
